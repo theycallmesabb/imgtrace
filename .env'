@@ -1,6 +1,0 @@
-DB_HOST=localhost
-DB_USER=sabyasacheethakur
-DB_PASSWORD=krishu2821*
-DB_NAME=imgtrace
-DB_PORT=5432
-DB_SSL=disable
