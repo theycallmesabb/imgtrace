@@ -44,3 +44,10 @@ imgtrace/
 ├── static/uploads # Uploaded image folder
 ├── main.go        # Entry point
 └── go.mod         # Go module file
+
+
+
+![arch](https://github.com/user-attachments/assets/8ca15576-1bcc-4c31-afd7-399185249351)
+
+
+
